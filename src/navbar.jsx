@@ -8,7 +8,7 @@ function Navbar() {
     <nav className={`navbar navbar-expand-lg ${theme === "light" ? "navbar-light bg-light" : "navbar-dark bg-dark"}`}>
       <div className="container-fluid">
         <a className="navbar-brand" href="/">
-          <img src="./dragon.jpg" alt="logo" style={{ width: "40px" }} className="rounded-pill" />
+          <img src="./pictures/dragon.jpg" alt="logo" style={{ width: "40px" }} className="rounded-pill" />
         </a>
         <a className="navbar-brand" href="/">Logo</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

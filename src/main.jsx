@@ -21,15 +21,15 @@ function MainContent() {
       </p>
       <div className="row">
         <div className="col-sm-4">
-          <img src="./kfp.jpg" alt="panda" style={{ width: "100%", height: "200px" }} />
+          <img src="./pictures/kfp.jpg" alt="panda" style={{ width: "100%", height: "200px" }} />
           <h6 style={{ color: "blue" }}>Efficiently Unleash</h6>
         </div>
         <div className="col-sm-4">
-          <img src="./kfp.jpg" alt="panda" style={{ width: "100%", height: "200px" }} />
+          <img src="./pictures/kfp.jpg" alt="panda" style={{ width: "100%", height: "200px" }} />
           <h6 style={{ color: "blue" }}>Completely Synergize</h6>
         </div>
         <div className="col-sm-4">
-          <img src="./kfp.jpg" alt="panda" style={{ width: "100%", height: "200px" }} />
+          <img src="./pictures/kfp.jpg" alt="panda" style={{ width: "100%", height: "200px" }} />
           <h6 style={{ color: "blue" }}>Dynamically Procrastinate</h6>
         </div>
       </div>
